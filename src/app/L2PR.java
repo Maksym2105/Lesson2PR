@@ -19,10 +19,10 @@ public class L2PR {
         cat2.swim(85);
 
         dog1.run(450);
-        dog1.swim(5);
+        dog1.swim(15);
 
         dog2.run(700);
-        dog2.swim(30);
+        dog2.swim(5);
 
 
 
