@@ -26,8 +26,8 @@ public class L2PR {
 
 
 
-        System.out.println("Кількість тварин: " + Animal.getAnimalCount());
-        System.out.println("Кількість собак: " + Dog.getDogCount());
-        System.out.println("Кількість котів: " + Cat.getCatCount());
+        System.out.println("Кількість тварин: " + Animal.getAnimalCount() + ".");
+        System.out.println("Кількість собак: " + Dog.getDogCount() + ".");
+        System.out.println("Кількість котів: " + Cat.getCatCount() + ".");
     }
 }
